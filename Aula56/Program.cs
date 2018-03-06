@@ -12,7 +12,7 @@ namespace Aula56
         {
             Console.WriteLine("Olá mundo!");
             Console.WriteLine("Bom dia");
-            Console.WriteLine("Como você está hoje?");
+            Console.WriteLine("Tenha um bom dia!");
 
             Console.ReadLine();
         }
