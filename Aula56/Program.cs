@@ -11,7 +11,8 @@ namespace Aula56
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo!");
-            Console.WriteLine("Teste");
+            Console.WriteLine("Bom dia");
+            Console.WriteLine("Como você está hoje?");
 
             Console.ReadLine();
         }
